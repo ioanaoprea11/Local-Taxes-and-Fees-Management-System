@@ -1,1 +1,1 @@
-This project is a Local Taxes and Fees Management System, designed to facilitate the collection, administration, and monitoring of local taxes and fees imposed by public authorities. The system is built using PL/SQL and integrates various functionalities for managing taxpayers, tax payments, and collected revenues
+This project is a Local Taxes and Fees Management System, designed to facilitate the collection, administration, and monitoring of local taxes and fees imposed by public authorities. 
